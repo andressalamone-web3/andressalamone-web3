@@ -27,12 +27,12 @@ Me apasiona construir el futuro de la web descentralizada mediante código limpi
 
 ### 📋 Proyectos Destacados
 
-*   **[wallet.cordobabitcoin.com]** - Una dApp para [wallet web de prueba]. Construida con Solidity y React.
-*   **[http://t.me/cbabtc_bot]** - Plataforma bot p2p que resuelve [Intercambio p2p en la comunidad Córdoba Bitcoin].
+*   **[http://wallet.cordobabitcoin.com]** - Una dApp para [wallet web de prueba]. Construida con Solidity y React.
+*   **[http://t.me/cbabtcp2p_bot]** - Plataforma bot p2p que resuelve [Intercambio p2p en la comunidad Córdoba Bitcoin].
 
 ---
 
 ### 🤝 Conectemos
-*   💼 LinkedIn: [Tu Perfil](https://linkedin.comin/andressalamone-ar/)
+*   💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/andressalamone-ar/)
 *   🐦 Twitter/X: [@andressalamone](https://x.com/andressalamone)
 *   🌐 Portafolio: [cordobabitcoin.com](https://cordobabitcoin.com)
