@@ -1,7 +1,7 @@
 # ¡Hola! Soy Andres Salamone 👋
 
-### 🚀 Web3 & Full-Stack Developer
-Me apasiona construir el futuro de la web descentralizada mediante código limpio, escalable y eficiente. Exploro constantemente el ecosistema blockchain para desarrollar aplicaciones de alto impacto.
+### 🚀 Crypto Journalist & Web3 Developer
+Combinando la comunicación y el desarrollo técnico para impulsar el ecosistema cripto. Soy **Cripto Periodista en Criptotendencia** y **Fundador de Córdoba Bitcoin**, enfocado en la educación, la difusión y la creación de herramientas financieras descentralizadas.
 
 ---
 
@@ -9,10 +9,18 @@ Me apasiona construir el futuro de la web descentralizada mediante código limpi
 
 | Especialidad | Tecnologías |
 | :--- | :--- |
-| **Web3 & Blockchain** | Solidity, Ethers.js, Hardhat, Web3.js |
-| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML5, CSS3 |
-| **Backend & Base de Datos** | Node.js, Express, MongoDB, PostgreSQL |
-| **Herramientas & DevOps** | Git, GitHub, Docker, Vercel |
+| **Web3 & Blockchain** | Web3 Wallets, Solidity, Ethers.js, Hardhat |
+| **Backend & Automation** | Python, Node.js, Express, Telegram Bot API |
+| **Frontend & Web** | React, Next.js, JavaScript, HTML5, CSS3 |
+| **Bases de Datos & Tools** | MongoDB, PostgreSQL, Git, GitHub, Docker |
+
+---
+
+### 📋 Proyectos Destacados
+
+*   **🤖 Telegram P2P Trading Bot** - Un bot automatizado desarrollado en **Python** para facilitar el comercio Peer-to-Peer (P2P) de criptomonedas de forma segura y directa a través de Telegram.
+*   **🌐 Web3 Wallet** - Una billetera descentralizada sin custodia que permite a los usuarios gestionar sus activos e interactuar con contratos inteligentes de manera intuitiva.
+*   **🏔️ [Córdoba Bitcoin](https://cordobabitcoin.com)** - Sitio web oficial de la comunidad, diseñado y desarrollado para centralizar recursos educativos, noticias y eventos locales sobre Bitcoin.
 
 ---
 
@@ -25,14 +33,8 @@ Me apasiona construir el futuro de la web descentralizada mediante código limpi
 
 ---
 
-### 📋 Proyectos Destacados
-
-*   **[http://wallet.cordobabitcoin.com]** - Una dApp para [wallet web de prueba]. Construida con Solidity y React.
-*   **[http://t.me/cbabtcp2p_bot]** - Plataforma bot p2p que resuelve [Intercambio p2p en la comunidad Córdoba Bitcoin].
-
----
-
 ### 🤝 Conectemos
+*   🌐 Comunidad: [Córdoba Bitcoin](https://cordobabitcoin.com)
+*   📰 Artículos: [Criptotendencia](https://criptotendencia.com/author/asalamone/)
 *   💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/andressalamone-ar/)
 *   🐦 Twitter/X: [@andressalamone](https://x.com/andressalamone)
-*   🌐 Portafolio: [cordobabitcoin.com](https://cordobabitcoin.com)
