@@ -18,8 +18,8 @@ Combinando la comunicación y el desarrollo técnico para impulsar el ecosistema
 
 ### 📋 Proyectos Destacados
 
-*   **🤖 Telegram P2P Trading Bot** - Un bot automatizado desarrollado en **Python** para facilitar el comercio Peer-to-Peer (P2P) de criptomonedas de forma segura y directa a través de Telegram.
-*   **🌐 Web3 Wallet** - Una billetera descentralizada sin custodia que permite a los usuarios gestionar sus activos e interactuar con contratos inteligentes de manera intuitiva.
+*   **🤖 [Telegram P2P Bot](http://t.me/cbabtcp2p_bot)** - Un bot automatizado desarrollado en **Python** para facilitar el comercio Peer-to-Peer (P2P) de criptomonedas de forma segura y directa a través de Telegram.
+*   **🌐 [Web3 Wallet](http://wallet.cordobabitcoin.com)** - Una billetera descentralizada sin custodia que permite a los usuarios gestionar sus activos e interactuar con contratos inteligentes de manera intuitiva.
 *   **🏔️ [Córdoba Bitcoin](https://cordobabitcoin.com)** - Sitio web oficial de la comunidad, diseñado y desarrollado para centralizar recursos educativos, noticias y eventos locales sobre Bitcoin.
 
 ---
